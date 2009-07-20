@@ -13,10 +13,10 @@ I have been creating a few apps to play around with it, and figured a template i
 
 To use it, just do the following:
 
-$ rails my-app-name -m http://gist.github.com/150413
-(if you want to run it from github)
+$ rails my-app-name -m /location/of/authlogic_template.rb
 
 
 I know it's not perfect...for starters, it only puts in minimum user fields (a lot of the optional stuff has been removed).
+I'm also not sure that the creation of all the different views etc is the best method of creating them.
 
 But, it works for me, so, great :)
