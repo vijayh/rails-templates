@@ -1,0 +1,22 @@
+= Rails Templates
+
+This is my repo for storing my rails templates
+
+you use them like so:
+
+$ rails my-app-name -m /location/of/template.rb
+
+== Authlogic template
+The only template I have so far (or have needed) is for Authlogic.
+
+I have been creating a few apps to play around with it, and figured a template is needed as I was fed up with setting everything up time and time again :)
+
+To use it, just do the following:
+
+$ rails my-app-name -m http://gist.github.com/150413
+(if you want to run it from github)
+
+
+I know it's not perfect...for starters, it only puts in minimum user fields (a lot of the optional stuff has been removed).
+
+But, it works for me, so, great :)
